@@ -1,0 +1,16 @@
+D:\FullStack\DIO\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+D:\FullStack\DIO\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack\DIO\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\FullStack\DIO\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\FullStack\DIO\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\FullStack\DIO\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+D:\FullStack\DIO\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+D:\FullStack\DIO\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+D:\FullStack\DIO\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+D:\FullStack\DIO\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+D:\FullStack\DIO\DIO.Series\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+D:\FullStack\DIO\DIO.Series\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+D:\FullStack\DIO\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+D:\FullStack\DIO\DIO.Series\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+D:\FullStack\DIO\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+D:\FullStack\DIO\DIO.Series\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
